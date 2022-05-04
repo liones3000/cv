@@ -13,7 +13,7 @@
 ### Skills
 ---
 
- - Vue.js v.3 (v.2) + Composition API,  Vuex + Vue Router, TypeScript, Git, Oh My Zsh
+ - Vue.js v.3 (v.2), Vuex | Pinia, Vue Router, TypeScript, Git, Oh My Zsh
  - JavaScript ES12 (including updates until 2022), jQuery
  - npm, Yarn
  - Gulp, Webpack, Bower
@@ -22,7 +22,7 @@
  - BEM, Atomic CSS, MCSS
  - Bootstrap, Vuetify, Element
  - Figma, Photoshop, Avocode
- - Trello
+ - Trello, Jira
  - I work with any API
   
 ### Project activity
@@ -43,10 +43,22 @@
 ### Employment History
 ---
 
-- March 2021 - now. I work for Codica as a Vue.js developer.
-- June 2020 - February 2021. Worked freelance. Executed various orders for the layout of landing pages, written on js. 
-- System administrator, web developer at "Your-Baby" and "Your-Family" (Medicine and Healthcare) - 7.5 years. 	
-  - What I achieved: Thanks to my efforts to automate the registration and service process, as well as a user-friendly website, the clinic received a huge  influx of clients. As a result, there is a streamlined workflow and clinics have opened in 3 cities of Ukraine.
+- March 2020 - now. I work for **Codica** as a Vue.js developer. `Use: JS, SCSS, Vue.js 2, Vuex, Vue Router, Vue CLI, Webpack, Vuetify, Bootstrap, yarn, and other libraries`.
+  <details><summary>Details</summary>
+  <i>For more than a year I have been a project leader. I communicate directly with clients on all issues (mostly correspondence). I am engaged in training new employees with further implementation in the project.</i>
+  </details>
+- February 2019 - March 2020. Worked as a front-end developer at **Aimix-Kharkov**. `Use: JS, LESS, Vue.js 2, Vuex, Vue Router, Webpack, Iconmoon`
+  <details><summary>Details</summary>
+  <i>Development of landing pages, online stores (for example, kratomhelper.com), and SPA applications.</i>
+  </details>
+- June 2018 - February 2019. Worked freelance. Executed various orders for the layout of landing pages, written on js. `Use: HTML, SCSS, JS, Gulp, Webpack, npm, Git`.
+  <details><summary>Details</summary>
+  <i>Improved practical skills in website layout, project assembly, and deployment.</i>
+  </details>
+- February 2012 – August 2019. System administrator, web developer at **Your-Baby** and **Your-Family** (Medicine and Healthcare). `Use: Drupal 7, HTML, CSS, JS`.
+  <details><summary>Details</summary>
+    <p><i>Thanks to my efforts to automate the registration and service process, as well as a user-friendly website, the clinic received a huge  influx of clients. As a result, there is a streamlined workflow and clinics have opened in 3 cities of Ukraine.</i></p>
+  </details>
 
 > Recommendations: I am ready to provide upon request.
 
