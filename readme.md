@@ -13,7 +13,7 @@
 ### Skills
 ---
 
- - Vue.js v.3 (v.2), Vuex | Pinia, Vue Router, TypeScript, Git, Oh My Zsh
+ - Vue.js v.3 (v.2), Vuex (Pinia), Vue Router, TypeScript, Git
  - JavaScript ES12 (including updates until 2022), jQuery
  - npm, Yarn
  - Gulp, Webpack, Bower
@@ -21,46 +21,31 @@
  - CSS3 (including updates until 2022), SCSS
  - BEM, Atomic CSS, MCSS
  - Bootstrap, Vuetify, Element
+ - Linux, bash, Oh My Zsh
  - Figma, Photoshop, Avocode
  - Trello, Jira
+ - Writing technical documentation for the project
  - I work with any API
   
-### Project activity
----
-
-#### GitLab
-
-1. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.codica.com/lkoichev) 
-<img src="assets/codica.png" />
-
-2. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://interna-gitlab.cloumeo.com/lkoichev.codica) 
-<img src="assets/interna.png" /> 
-
-#### Codewars
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/liones3000) <img src="https://www.codewars.com/users/liones3000/badges/large" />
-
 ### Employment History
 ---
 
-- March 2020 - now. I work for **Codica** as a Vue.js developer. `Use: JS, SCSS, Vue.js 2, Vuex, Vue Router, Vue CLI, Webpack, Vuetify, Bootstrap, yarn, and other libraries`.
+- March 2021 - now (1 years and 3 months). I work for **Codica** as a Vue.js developer. `Use: JS, SCSS, Vue.js 2, Vuex, Vue Router, Vue CLI, Git, Linux, Webpack, Gitlab, Vuetify, Bootstrap, npm/yarn, and other libraries`.
   <details><summary>Details</summary>
-  <i>For more than a year I have been a project leader. I communicate directly with clients on all issues (mostly correspondence). I am engaged in training new employees with further implementation in the project.</i>
+  <i>The current product is a CRM system for managing Amazon and eBay seller accounts (clousale.com). For more than a year I have been a project leader. I communicate directly with clients on all issues (mostly correspondence). I am engaged in training new employees with further implementation in the project.</i>
   </details>
-- February 2019 - March 2020. Worked as a front-end developer at **Aimix-Kharkov**. `Use: JS, LESS, Vue.js 2, Vuex, Vue Router, Webpack, Iconmoon`
+- February 2020 - March 2021 (1 year and 1 month). Worked as a front-end developer at **Aimix-Kharkov**. `Use: JS, LESS, Vue.js 2, Vuex, Vue Router, Webpack, Iconmoon`
   <details><summary>Details</summary>
   <i>Development of landing pages, online stores (for example, kratomhelper.com), and SPA applications.</i>
   </details>
-- June 2018 - February 2019. Worked freelance. Executed various orders for the layout of landing pages, written on js. `Use: HTML, SCSS, JS, Gulp, Webpack, npm, Git`.
+- June 2018 - February 2020 (1 year and 7 months). Worked **freelance**. Executed various orders for the layout of landing pages. `Use: HTML, SCSS, JS, Gulp, Webpack, npm, Git`.
   <details><summary>Details</summary>
   <i>Improved practical skills in website layout, project assembly, and deployment.</i>
   </details>
-- February 2012 – August 2019. System administrator, web developer at **Your-Baby** and **Your-Family** (Medicine and Healthcare). `Use: Drupal 7, HTML, CSS, JS`.
+- February 2012 – June 2018 (6 years and 4 months). System administrator, web developer at **Your-Baby** and **Your-Family** (Medicine and Healthcare). `Use: Drupal 7, HTML, CSS, JS`.
   <details><summary>Details</summary>
     <p><i>Thanks to my efforts to automate the registration and service process, as well as a user-friendly website, the clinic received a huge  influx of clients. As a result, there is a streamlined workflow and clinics have opened in 3 cities of Ukraine.</i></p>
   </details>
-
-> Recommendations: I am ready to provide upon request.
 
 ### Education
 ---
